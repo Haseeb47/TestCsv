@@ -3,5 +3,6 @@ This is just a dummy CSV file to test the compatibility with Google CoLab
 Code:
 url = 'Raw_GitHub_link' 
  #url = 'https://raw.githubusercontent.com/Haseeb47/TestCsv/master/userRating.csv'  ##for this UserRating.CSV
+ #url = 'https://raw.githubusercontent.com/Haseeb47/TestCsv/master/MLratings.csv'  ##for this MLrating.CSV
 df1 = pd.read_csv(url)
 
